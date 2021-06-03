@@ -1,5 +1,4 @@
 __pycache__/
+secret/
 
 .env
-client_secret.json
-app.py-oauth2.json
